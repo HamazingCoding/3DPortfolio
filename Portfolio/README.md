@@ -1,19 +1,34 @@
 # Hamza's Website
 
-This is a creative website showcasing my projects, work history, and a touch of personality. It utilizes Three.js to create a 3D scene with a background, torus, moon, and a Hamza avatar. Scrolling the webpage animates the camera position and rotates some elements.
+This is a creative website showcasing Hamza's projects, work history, and a touch of personality. It utilizes Three.js to create a 3D scene with a background, torus, moon, and a Hamza avatar. Scrolling the webpage animates the camera position and rotates some elements.
 
 ## Running the Project
 
 ### Prerequisites
 
-- A modern web browser that supports WebGL (most recent versions of Chrome, Firefox, Safari, Edge).
-- Basic understanding of HTML, CSS, and JavaScript.
+- Node.js installed on your system
 
 ### Download and Setup
 
 1. Download the entire project folder containing `index.html`, `main.js`, and `style.css`.
 2. Alternatively, you can copy and paste the code for each file into separate files on your computer.
-3. Open `index.html` in your web browser.
+
+### Commands to Run the Project
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repository.git
+
+# Navigate to the project folder
+cd your-repository
+
+# Install dependencies
+npm install
+
+# Run the project
+npx vite
+
+```
 
 ### Explanation of Files
 
