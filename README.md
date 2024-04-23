@@ -1,6 +1,6 @@
-# Hamza's Website
+# Example 3D Website
 
-This is a creative website showcasing Hamza's projects, work history, and a touch of personality. It utilizes Three.js to create a 3D scene with a background, torus, moon, and a Hamza avatar. Scrolling the webpage animates the camera position and rotates some elements.
+This is a creative website showcasing example projects, work history, and a touch of personality. It utilizes Three.js to create a 3D scene with a background, torus, moon, and an avatar. Scrolling the webpage animates the camera position and rotates some elements.
 
 ## Running the Project
 
